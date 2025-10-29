@@ -29,7 +29,6 @@ The benchmarking approach follows a systematic methodology to evaluate performan
 
 ### Visualization
 - **Plotting**: Matplotlib generates performance comparison graphs
-- **Scale**: Logarithmic y-axis for better visualization of performance differences
 - **Output**: High-resolution PNG file (`matrix_performance_comparison.png`)
 
 
